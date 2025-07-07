@@ -11,7 +11,7 @@
 
 ## 📸 Превью
 
-![App Preview](https://user-images.githubusercontent.com/00000000/preview.png)
+![App Preview](https://yapx.ru/album/ZzdA9)
 
 ---
 
