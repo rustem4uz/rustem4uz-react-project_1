@@ -11,7 +11,7 @@
 
 ## 📸 Превью
 
-![App Preview](https://yapx.ru/album/ZzdA9)
+App Preview - https://yapx.ru/album/ZzdA9
 
 ---
 
