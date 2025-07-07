@@ -37,4 +37,9 @@
 1. Склонировать репозиторий:  
    ```bash
    git clone https://github.com/rustem4uz/my-app.git
-```
+2. Установить зависимости:
+   ```bash
+   npm install
+3. Запустить в режиме разработки:
+   ```bash
+   npm start
