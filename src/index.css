@@ -1,1 +1,9 @@
-
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:#f5f7fa;color:#333;display:flex;justify-content:center;align-items:center;min-height:100vh}
+.container{background:#fff;padding:2rem;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.05);width:100%;max-width:400px;animation:fadeIn .6s ease-in-out}
+h2{margin-bottom:1rem;text-align:center}
+input{width:100%;padding:.75rem;margin-bottom:1rem;border:1px solid #ddd;border-radius:8px;font-size:1rem;transition:border .3s}
+input:focus{border-color:#2196f3;outline:none}
+button{width:100%;padding:.75rem;border:none;border-radius:8px;font-size:1rem;cursor:pointer;transition:background .3s,transform .2s}
+button:hover{transform:scale(1.02)}
+@keyframes fadeIn{0%{opacity:0;transform:translateY(-10px)}100%{opacity:1;transform:translateY(0)}}
